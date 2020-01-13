@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 ddddddddddd
+=======
+mmmmmm
+>>>>>>> master
+
+新加的dev
