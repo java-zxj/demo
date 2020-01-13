@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 mmmmmm
 =======
 ddddddddddd
@@ -6,3 +7,11 @@ ddddddddddd
 
 
 master  添加
+=======
+ddddddddddd
+=======
+mmmmmm
+>>>>>>> master
+
+新加的dev
+>>>>>>> dev
